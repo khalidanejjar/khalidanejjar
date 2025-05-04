@@ -48,7 +48,7 @@ I'm open to **internships**, **part-time roles**, or **freelance projects** wher
 - ✉️ Email: [KhalidAnejjar7@gmail.com]
 - 💼 LinkedIn: [linkedin.com/in/khalidanejjar](https://www.linkedin.com/in/khalidanejjar)
 - 👋 FrontEndMentor Profile: [Frontend Mentor](https://www.frontendmentor.io/profile/khalidanejjar)
-- 🌐 Portfolio: [your-portfolio.com] (if you have one)
+- 🌐 Portfolio: Working on it
 
 ---
 
