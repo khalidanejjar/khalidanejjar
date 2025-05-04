@@ -1,7 +1,7 @@
 ## Hi there 👋
 # 👋 Hi, I'm Khalid Anejjar
 
-🚀 Front-End Developer | 🌱 Lifelong Learner | 📍 Based in Chicago
+🚀 Front-End Developer | 📍 Based in Chicago
 
 ---
 
@@ -47,6 +47,7 @@ I'm open to **internships**, **part-time roles**, or **freelance projects** wher
 
 - ✉️ Email: [KhalidAnejjar7@gmail.com]
 - 💼 LinkedIn: [linkedin.com/in/khalidanejjar](https://www.linkedin.com/in/khalidanejjar)
+- 👋 [Frontend Mentor](https://www.frontendmentor.io/profile/khalidanejjar)
 - 🌐 Portfolio: [your-portfolio.com] (if you have one)
 
 ---
