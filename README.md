@@ -9,8 +9,7 @@
 
 I'm a self-driven **frontend developer** with a passion for building responsive, accessible, and user-friendly web applications. I specialize in:
 
-- **JavaScript** / **TypeScript**
-- **React** / **Next.js**
+- **JavaScript** / **React**
 - **HTML5**, **CSS3**, **Tailwind CSS**
 - **Git**, **GitHub**, and modern development workflows
 
@@ -40,13 +39,13 @@ I'm currently completing the **Meta Front-End Developer Professional Certificate
 
 ## 🧑‍💼 Looking for Opportunities
 
-I'm open to **remote internships**, **part-time roles**, or **freelance projects** where I can contribute to meaningful frontend work while continuing to grow as a developer.
+I'm open to **internships**, **part-time roles**, or **freelance projects** where I can contribute to meaningful frontend work while continuing to grow as a developer.
 
 ---
 
 ## 📫 Let's Connect
 
-- ✉️ Email: [your.email@example.com]
+- ✉️ Email: [KhalidAnejjar7@gmail.com]
 - 💼 LinkedIn: [linkedin.com/in/khalidanejjar](https://www.linkedin.com/in/khalidanejjar)
 - 🌐 Portfolio: [your-portfolio.com] (if you have one)
 
